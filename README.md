@@ -1,0 +1,2 @@
+# Vercel.json
+Tepovanie
